@@ -11,7 +11,7 @@ Problematic is that the player is new to blackjack, this program is designed for
 #### What are the availabe actions to do while playing (hit or stay) 
 #### Blackjack winning when Ace and a ten card (10 , J , Q , K )
 
-## Intructions 
+## Intructions 
 
 #### Player will be dealt two open cards and dealer will be dealt one open card and one hidden card
 #### The goal is to get higher than the dealer without excedding the 21 sum where J Q K are considered as a 10 sum and the A is either 1 or 11
@@ -35,4 +35,5 @@ Problematic is that the player is new to blackjack, this program is designed for
 
 https://www.neilvandyke.org/racket/sicp/
 
-Refrences
+## References
+
