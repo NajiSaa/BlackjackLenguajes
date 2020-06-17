@@ -37,3 +37,7 @@ https://www.neilvandyke.org/racket/sicp/
 
 ## References
 
+* https://stackoverflow.com/questions/9434502/scheme-blackjack-program-sicp-learning-to-program/9451098#9451098
+* https://github.com/machetazo/blacekjack/blob/master/src/engine.rkt
+
+
