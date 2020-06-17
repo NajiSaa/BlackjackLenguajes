@@ -30,3 +30,9 @@ Problematic is that the player is new to blackjack, this program is designed for
 
 
 # SICP library
+
+#### Was used for some functions of data 
+
+https://www.neilvandyke.org/racket/sicp/
+
+Refrences
